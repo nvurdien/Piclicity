@@ -1,0 +1,19 @@
+.horizontal_menu {
+border: 3px solid blue;
+background-color: #FFFFFF;
+padding: 5px;
+margin: 5px;
+}
+.horizontal_menu li {
+display: inline-block;
+width: 32%;
+text-align: center;
+list-style: none;
+}
+.horizontal_menu li a {
+text-decoration: none;
+color: black;
+}
+.horizontal_menu li a:hover {
+text-decoration: underline;
+}

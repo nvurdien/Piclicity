@@ -1,0 +1,36 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+// PAGE SPECIFIC
+.home-wrapper
+{
+	.home-item
+	{
+		min-height: 80%;
+		height: 580px;
+		position: relative;
+		background: #808080 fixed no-repeat center center;
+		background-size: cover;
+		
+
+	}
+
+
+}
+
+div.headline
+{
+	img
+	{
+		margin: -150px 0px 0px 25px;
+	}
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: 20px 0px 0px -150px;
+
+}
+
+
